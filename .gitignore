@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+﻿target/farmnetwebservice/WEB-INF/classes
+target/classes/com/farmnet
+nb-configuration.xml
+target/test-classes
+target/farmnetwebservice.war
+target/classes/.netbeans_automatic_build
+=======
+﻿target
+nb-configuration.xml
+>>>>>>> farmnet pom
+target/farmnetwebservice/WEB-INF/classes/com/farmnet
+target
